@@ -1,7 +1,7 @@
 import path from 'path';
 import xlsx from 'xlsx';
 
-const filePath = path.join(process.cwd(), 'src', 'data', 'test.xls');
+const filePath = path.join(process.cwd(), 'src', 'data', 'listeStationsRéseau_Corse.xlsx');
 
 export const readExcelFile = () => {
   try {

@@ -17,6 +17,18 @@ const getToken = async () => {
   return await fetchToken(API_URL, PASSWORD, 'totalenergies');
 };
 
-// Execute functions
-readExcelFile();
-getToken();
+// Execute Functions Sequentially
+const main = async () => {
+  try {
+    const token = await getToken(); // Fetch token
+    if (token) {
+      readExcelFile(); // Trigger Excel reading only if token exists
+    } else {
+      console.error('Token retrieval failed. Exiting...');
+    }
+  } catch (error) {
+    console.error('Error during execution:', error.message);
+  }
+};
+
+main();
