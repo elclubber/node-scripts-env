@@ -1,0 +1,6373 @@
+[
+  {
+    "locations": [
+      {
+        "name": "locations/11605092433401456808",
+        "languageCode": "fr",
+        "storeCode": "NF016598",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 20 21 21"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20167",
+          "locality": "Alata",
+          "addressLines": [
+            "D81",
+            "Lieu Dit Villaranda"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016598?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.9684878,
+          "longitude": 8.7793188
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJJ6NfwJdr2hIRRVlPW4KL4Ac",
+          "mapsUri": "https://maps.google.com/maps?cid=567606945042618693",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJJ6NfwJdr2hIRRVlPW4KL4Ac",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/16631457679251861664",
+        "languageCode": "fr",
+        "storeCode": "NF088508",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 60 76 64"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20220",
+          "locality": "Corbara",
+          "addressLines": [
+            "Cataraccio",
+            "Algajola"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088508?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.6157,
+          "longitude": 8.907
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJBzDbvZTD0BIRKBdUGVSyZZw",
+          "mapsUri": "https://maps.google.com/maps?cid=11269609716836472616",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJBzDbvZTD0BIRKBdUGVSyZZw",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/15520975545738639339",
+        "languageCode": "fr",
+        "storeCode": "NF005474",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 38 83 98"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20230",
+          "locality": "San-Giuliano",
+          "addressLines": [
+            "Ciavattone",
+            "Rn 198 - Alistro"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF005474?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.2593536,
+          "longitude": 9.5470724
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJnzT7PUTu2RIRjDnBYTIHi6U",
+          "mapsUri": "https://maps.google.com/maps?cid=11928635950990702988",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJnzT7PUTu2RIRjDnBYTIHi6U",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/4613160523905458461",
+        "languageCode": "fr",
+        "storeCode": "NF005886",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 73 02 73"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20169",
+          "locality": "Bonifacio",
+          "addressLines": [
+            "Avenue Sylver Bohn",
+            "Rn 198"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF005886?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 12,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.3923523,
+          "longitude": 9.1657192
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJkRDCriHY2xIRXv1v3y5jTlM",
+          "duplicateLocation": "locations/12890400763458196914",
+          "mapsUri": "https://maps.google.com/maps?cid=6002844406299753822",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJkRDCriHY2xIRXv1v3y5jTlM"
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/8686765033397622929",
+        "languageCode": "fr",
+        "storeCode": "NF088514",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 33 36 27"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20600",
+          "locality": "Bastia",
+          "addressLines": [
+            "Avenue Sampiero Corso",
+            "Rn 193 L'arinella Montesoro"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088514?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.6738783,
+          "longitude": 9.4435697
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJB-9LmGQk1xIRydRS59houBI",
+          "mapsUri": "https://maps.google.com/maps?cid=1348943369200653513",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJB-9LmGQk1xIRydRS59houBI",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/3839017930905434623",
+        "languageCode": "fr",
+        "storeCode": "NF016708",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 22 22 44"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20000",
+          "locality": "Ajaccio",
+          "addressLines": [
+            "Route d'Aspretto"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016708?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {},
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {},
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {},
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {},
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {},
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {},
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {},
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.9296,
+          "longitude": 8.7604
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJn-5HHnpr2hIR4Low_tfbvEs",
+          "mapsUri": "https://maps.google.com/maps?cid=5457478569195256544",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJn-5HHnpr2hIR4Low_tfbvEs",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/17990275686258701434",
+        "languageCode": "fr",
+        "storeCode": "NF060304",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 76 81 05"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20090",
+          "locality": "Ajaccio",
+          "addressLines": [
+            "Port Charles",
+            "Ornano"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF060304?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.9296865,
+          "longitude": 8.7401812
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJ1Whx8Y5p2hIR18wILZuUrZw",
+          "mapsUri": "https://maps.google.com/maps?cid=11289843235084094679",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ1Whx8Y5p2hIR18wILZuUrZw",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/3796747690731535463",
+        "languageCode": "fr",
+        "storeCode": "NF088522",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 35 48 55"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20247",
+          "locality": "Rogliano",
+          "addressLines": [
+            "Quai d'Honneur",
+            "Port de Maccinaggio"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088522?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.9609229,
+          "longitude": 9.4549912
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJmQVbOJ7E1hIRCZnna69MWqE",
+          "mapsUri": "https://maps.google.com/maps?cid=11626689704323684617",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJmQVbOJ7E1hIRCZnna69MWqE",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/5746089834564159662",
+        "languageCode": "fr",
+        "storeCode": "NF088509",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 35 48 55"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20110",
+          "locality": "Propriano",
+          "addressLines": [
+            "Port de Propriano"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088509?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.6771,
+          "longitude": 8.904
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJxaPwkWA32hIR5fdhagDb5zk",
+          "mapsUri": "https://maps.google.com/maps?cid=4172544374613342181",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJxaPwkWA32hIR5fdhagDb5zk",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/2883005306744393800",
+        "languageCode": "fr",
+        "storeCode": "NF058987",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 65 09 79"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20260",
+          "locality": "Calvi",
+          "addressLines": [
+            "T30"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF058987?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.560339,
+          "longitude": 8.7564808
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJA5txaHjr0BIRRb7JH0ZL-7g",
+          "mapsUri": "https://maps.google.com/maps?cid=13329330286686223941",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJA5txaHjr0BIRRb7JH0ZL-7g",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/9352734012022105138",
+        "languageCode": "fr",
+        "storeCode": "NF088534",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 76 04 08"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20113",
+          "locality": "Olmeto",
+          "addressLines": [
+            "Arconcello"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088534?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 15
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 15
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 15
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 15
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 15
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 15
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 15
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.6845938,
+          "longitude": 8.920982
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJPVzKstM22hIRWtcdGYTNLPk",
+          "mapsUri": "https://maps.google.com/maps?cid=17954951781660088154",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJPVzKstM22hIRWtcdGYTNLPk",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/16789597461136168973",
+        "languageCode": "fr",
+        "storeCode": "NF088519",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 56 00 26"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20145",
+          "locality": "Sari-Solenzara",
+          "addressLines": [
+            "T10"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088519?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.849396,
+          "longitude": 9.3997148
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJO8btc82S2RIRNAbgQcUYMF8",
+          "mapsUri": "https://maps.google.com/maps?cid=6859009467978090036",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJO8btc82S2RIRNAbgQcUYMF8",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/16167032681926147715",
+        "languageCode": "fr",
+        "storeCode": "NF088539",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 70 12 03"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20137",
+          "locality": "Porto-Vecchio",
+          "addressLines": [
+            "Avenue de Bastia",
+            "La Poretta"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088539?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.6015241,
+          "longitude": 9.2764686
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJjfLKsWGB2RIRK6z_sfjY4b0",
+          "mapsUri": "https://maps.google.com/maps?cid=13682455705578089515",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJjfLKsWGB2RIRK6z_sfjY4b0",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/12487363581761083407",
+        "languageCode": "fr",
+        "storeCode": "NF040546",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 38 36 19"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20290",
+          "locality": "Borgo",
+          "addressLines": [
+            "2080 Avenue de Borgo"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF040546?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.5680188,
+          "longitude": 9.441136
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJkYoOQuw71xIRB22WJfPtVB8",
+          "mapsUri": "https://maps.google.com/maps?cid=2257690941782912263",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJkYoOQuw71xIRB22WJfPtVB8",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/16194751259963042375",
+        "languageCode": "fr",
+        "storeCode": "NF088536",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 48 00 08"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20224",
+          "locality": "Calacuccia",
+          "addressLines": [
+            "D84"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088536?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 16
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 16
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 16
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 16
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 16
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 16
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 16
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.3340402,
+          "longitude": 9.0085493
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJFTECZvOv0BIRECITbo_bLng",
+          "mapsUri": "https://maps.google.com/maps?cid=8660100542553596432",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJFTECZvOv0BIRECITbo_bLng",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/11380682639996534479",
+        "languageCode": "fr",
+        "storeCode": "NF088543",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 22 63 91"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20090",
+          "locality": "Ajaccio",
+          "addressLines": [
+            "Territoriale 21",
+            "Ld Vignetta Route De Campo Dell'oro"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088543?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.9267257,
+          "longitude": 8.7835238
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJ_____w9o2hIRpW3XZ7TD9TI",
+          "duplicateLocation": "locations/18107239717566240775",
+          "mapsUri": "https://maps.google.com/maps?cid=3672056250794208677",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ_____w9o2hIRpW3XZ7TD9TI"
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/5172305341633613293",
+        "languageCode": "fr",
+        "storeCode": "NF088524",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 26 41 09"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20130",
+          "locality": "Cargèse",
+          "addressLines": [
+            "Avenue de la République"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088524?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {},
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {},
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {},
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {},
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {},
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {},
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {},
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.1339796,
+          "longitude": 8.5978914
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJsZN9FsF72hIRhfVjBcSzTBk",
+          "mapsUri": "https://maps.google.com/maps?cid=1823029603663607173",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJsZN9FsF72hIRhfVjBcSzTBk",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/5087240605468561731",
+        "languageCode": "fr",
+        "storeCode": "NF038811",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 36 00 28"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20290",
+          "locality": "Lucciana",
+          "addressLines": [
+            "D210",
+            "Rn 193 Casamozza"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF038811?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.5249472,
+          "longitude": 9.4410413
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJBYenEjs51xIRYB1ZjHk0jBA",
+          "mapsUri": "https://maps.google.com/maps?cid=1192385697996676448",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJBYenEjs51xIRYB1ZjHk0jBA",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/18191416871034832495",
+        "languageCode": "fr",
+        "storeCode": "NF016550",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 46 00 57"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20250",
+          "locality": "Corte",
+          "addressLines": [
+            "Avenue de la République"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016550?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.3127448,
+          "longitude": 9.1507893
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJ8xgeAA2t0BIROgDWhvOB-b0",
+          "mapsUri": "https://maps.google.com/maps?cid=13689115425308540986",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ8xgeAA2t0BIROgDWhvOB-b0",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/2664602472410641426",
+        "languageCode": "fr",
+        "storeCode": "NF016591",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 30 19 60"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20600",
+          "locality": "Furiani",
+          "addressLines": [
+            "Avenue Sampiero Corso",
+            "Route Nationale 193"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016591?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.637,
+          "longitude": 9.4383
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJl-58Qhsl1xIRC7dfrvt5NCQ",
+          "mapsUri": "https://maps.google.com/maps?cid=2608844206023620363",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJl-58Qhsl1xIRC7dfrvt5NCQ",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/18109608975170155873",
+        "languageCode": "fr",
+        "storeCode": "NF038748",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 56 06 23"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20243",
+          "locality": "Prunelli-di-Fiumorbo",
+          "addressLines": [
+            "Z . I . de Migliacciaro"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF038748?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.9980538,
+          "longitude": 9.4031697
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJMXqu1prv2RIR6XBH0BWDQqY",
+          "mapsUri": "https://maps.google.com/maps?cid=11980282088470835433",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJMXqu1prv2RIR6XBH0BWDQqY",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/10242018162914780153",
+        "languageCode": "fr",
+        "storeCode": "NF088531",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 36 96 32"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20213",
+          "locality": "Penta-di-Casinca",
+          "addressLines": [
+            "T10",
+            "Rn 198 Folelli"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088531?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.4462179,
+          "longitude": 9.5076404
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJnzT7PUTu2RIRVK3Twmizsuk",
+          "mapsUri": "https://maps.google.com/maps?cid=16839719219218328916",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJnzT7PUTu2RIRVK3Twmizsuk",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/13899162963668994323",
+        "languageCode": "fr",
+        "storeCode": "NF030301",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 30 75 13"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20600",
+          "locality": "Furiani",
+          "addressLines": [
+            "Route de la Lagune",
+            "Rn 193 Rond Point Furiani"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF030301?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.6549404,
+          "longitude": 9.4415061
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJjQAuO5Ek1xIRr3Y4BMeuLVQ",
+          "mapsUri": "https://maps.google.com/maps?cid=6065696442930460335",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJjQAuO5Ek1xIRr3Y4BMeuLVQ",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/3257214445552287976",
+        "languageCode": "fr",
+        "storeCode": "NF088540",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 24 41 75"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20153",
+          "locality": "Guitera-les-Bains",
+          "addressLines": [
+            "Les Bains",
+            "I Bagni"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088540?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.900384,
+          "longitude": 9.0975304
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJ7RYUYk4Z2hIRb4XWBNpJ57o",
+          "mapsUri": "https://maps.google.com/maps?cid=13467814411407623535",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ7RYUYk4Z2hIRb4XWBNpJ57o",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/13134946057612174989",
+        "languageCode": "fr",
+        "storeCode": "NF088526",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 60 00 20"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20220",
+          "locality": "L'Île-Rousse",
+          "addressLines": [
+            "Avenue Paul Doumer"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088526?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.6319898,
+          "longitude": 8.9441979
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJO8h9ZorE0BIRI6FjqwfQpSU",
+          "mapsUri": "https://maps.google.com/maps?cid=2712803081919373603",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJO8h9ZorE0BIRI6FjqwfQpSU",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/18384721105510400736",
+        "languageCode": "fr",
+        "storeCode": "NF016693",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "09 70 80 86 51"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20247",
+          "locality": "Rogliano",
+          "addressLines": [
+            "Quai d'Honneur Port de Maccinaggio"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016693?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {},
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {},
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {},
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {},
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {},
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {},
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {},
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 24
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.9609333,
+          "longitude": 9.4550199
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJmQVbOJ7E1hIRCZnna69MWqE",
+          "duplicateLocation": "locations/3796747690731535463",
+          "mapsUri": "https://maps.google.com/maps?cid=11626689704323684617",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJmQVbOJ7E1hIRCZnna69MWqE"
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/17983222504465805124",
+        "languageCode": "fr",
+        "storeCode": "NF088530",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 38 50 43"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20230",
+          "locality": "San-Nicolao",
+          "addressLines": [
+            "Moriani Plage Rn 198"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088530?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.3710514,
+          "longitude": 9.5295552
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJzQNoaxNC1xIRXBBYiIyzank",
+          "mapsUri": "https://maps.google.com/maps?cid=8749002642284875868",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJzQNoaxNC1xIRXBBYiIyzank",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/14377404182520169086",
+        "languageCode": "fr",
+        "storeCode": "NF030386",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 76 05 55"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20113",
+          "locality": "Olmeto",
+          "addressLines": [
+            "D157",
+            "Marinca D'Olmeto"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF030386?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.6975119,
+          "longitude": 8.8968052
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJi6tHIBw32hIRqm-Kes-th_M",
+          "mapsUri": "https://maps.google.com/maps?cid=17548185579698155434",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJi6tHIBw32hIRqm-Kes-th_M",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/343755655829723309",
+        "languageCode": "fr",
+        "storeCode": "NF016748",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 65 30 37"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20260",
+          "locality": "Calvi",
+          "addressLines": [
+            "T30"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016748?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.5546125,
+          "longitude": 8.7615598
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJJ8piHG_r0BIRhpoOrU_GNCg",
+          "duplicateLocation": "locations/5895528410324708603",
+          "mapsUri": "https://maps.google.com/maps?cid=2897158505814203014",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJJ8piHG_r0BIRhpoOrU_GNCg"
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/9583383434699012847",
+        "languageCode": "fr",
+        "storeCode": "NF088528",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 70 18 78"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20137",
+          "locality": "Porto-Vecchio",
+          "addressLines": [
+            "D859",
+            "Route de Bonifacio"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088528?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.57061,
+          "longitude": 9.2732532
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJS8PvqmaB2RIR9BLW-22DPvk",
+          "mapsUri": "https://maps.google.com/maps?cid=17959936872399901428",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJS8PvqmaB2RIR9BLW-22DPvk",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/16106459382062566005",
+        "languageCode": "fr",
+        "storeCode": "NF088545",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 71 80 71"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20131",
+          "locality": "Pianottoli-Caldarello",
+          "addressLines": [
+            "T40"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088545?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.4913127,
+          "longitude": 9.0577128
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJf7D-Ey3S2xIRA4R8scY9h_4",
+          "mapsUri": "https://maps.google.com/maps?cid=18340695931080180739",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJf7D-Ey3S2xIRA4R8scY9h_4",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/1484641205676020906",
+        "languageCode": "fr",
+        "storeCode": "NF016593",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "09 70 80 86 51"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20200",
+          "locality": "San-Martino-di-Lota",
+          "addressLines": [
+            "37 Route du Cap"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016593?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.7236739,
+          "longitude": 9.4570718
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJl6izxEoh1xIRdvGjdJBW3ts",
+          "mapsUri": "https://maps.google.com/maps?cid=15843195717568164214",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJl6izxEoh1xIRdvGjdJBW3ts",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/16380243137996796469",
+        "languageCode": "fr",
+        "storeCode": "NF005169",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 47 61 98"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20218",
+          "locality": "Morosaglia",
+          "addressLines": [
+            "Territoriale 20",
+            "Rn 193"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF005169?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.4617524,
+          "longitude": 9.2065456
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJVaKIgNtK1xIRk-Dl1UKd4Wk",
+          "mapsUri": "https://maps.google.com/maps?cid=7629552154124345491",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJVaKIgNtK1xIRk-Dl1UKd4Wk",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/6923239573406536135",
+        "languageCode": "fr",
+        "storeCode": "NF003269",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 38 60 21"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20235",
+          "locality": "Castello-di-Rostino",
+          "addressLines": [
+            "Territoriale 20",
+            "Rn 193 Ponte Novu"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF003269?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.4880864,
+          "longitude": 9.2825291
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJwR2N6QE21xIR4XdMEZ_Dc7U",
+          "mapsUri": "https://maps.google.com/maps?cid=13075009231144122337",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJwR2N6QE21xIR4XdMEZ_Dc7U",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/2761669083537932014",
+        "languageCode": "fr",
+        "storeCode": "NF088535",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 25 09 25"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20166",
+          "locality": "Grosseto-Prugna",
+          "addressLines": [
+            "RD55",
+            "Jard des Marines de Porticcio"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088535?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.8890581,
+          "longitude": 8.8027912
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJ668wQjtA2hIRXwqbPTXaixk",
+          "mapsUri": "https://maps.google.com/maps?cid=1840804794912672351",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ668wQjtA2hIRXwqbPTXaixk",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/13032171576287084972",
+        "languageCode": "fr",
+        "storeCode": "NF088529",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 72 27 22"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20137",
+          "locality": "Porto-Vecchio",
+          "addressLines": [
+            "Rue Pierre Andreani",
+            "Route De Bastia"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088529?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.6151874,
+          "longitude": 9.2802379
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJw9lCF_2D2RIRhwv5ZipCxDo",
+          "duplicateLocation": "locations/12956510503511713872",
+          "mapsUri": "https://maps.google.com/maps?cid=4234582299518765959",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJw9lCF_2D2RIRhwv5ZipCxDo"
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/12561669794085269257",
+        "languageCode": "fr",
+        "storeCode": "NF016519",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 23 00 03"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20090",
+          "locality": "Ajaccio",
+          "addressLines": [
+            "Boulevard Louis Campi",
+            "La Rocade Quartier Finosello"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016519?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.9426381,
+          "longitude": 8.7525211
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJgWgTudRr2hIRqvT6YkOpuK8",
+          "mapsUri": "https://maps.google.com/maps?cid=12662056459240666282",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJgWgTudRr2hIRqvT6YkOpuK8",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/566515682426238506",
+        "languageCode": "fr",
+        "storeCode": "NF030231",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 25 41 54"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20166",
+          "locality": "Pietrosella",
+          "addressLines": [
+            "Castello Rosso",
+            "Le Rupione"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF030231?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.832643,
+          "longitude": 8.7849493
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJQ-pKFwlB2hIRg_d9g6C2IO0",
+          "mapsUri": "https://maps.google.com/maps?cid=17086857786760755075",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJQ-pKFwlB2hIRg_d9g6C2IO0",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/1427589806938835042",
+        "languageCode": "fr",
+        "storeCode": "NF021778",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 28 01 15"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20118",
+          "locality": "Vico",
+          "addressLines": [
+            "Chioselli",
+            "Résidence de la Plage"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF021778?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.1163975,
+          "longitude": 8.6921548
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJ-6quMjJx2hIR7qbGvCS-9u0",
+          "mapsUri": "https://maps.google.com/maps?cid=17147101696254977774",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ-6quMjJx2hIR7qbGvCS-9u0",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/4260637260498991384",
+        "languageCode": "fr",
+        "storeCode": "NF088507",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 51 09 08"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20000",
+          "locality": "Ajaccio",
+          "addressLines": [
+            "65 Cours Lucien Bonaparte"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088507?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.9105361,
+          "longitude": 8.7218918
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJfb5sFtxp2hIRR2FdEbFeUac",
+          "mapsUri": "https://maps.google.com/maps?cid=12056521792041083207",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJfb5sFtxp2hIRR2FdEbFeUac",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/15932800896855838025",
+        "languageCode": "fr",
+        "storeCode": "NF030230",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 77 01 95"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20100",
+          "locality": "Sartène",
+          "addressLines": [
+            "Cours saint Damien"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF030230?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 12
+              }
+            },
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 14
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.6186,
+          "longitude": 8.9679
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJYUjmE00y2hIRP6CFGOnpdZ8",
+          "mapsUri": "https://maps.google.com/maps?cid=11490347211653750847",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJYUjmE00y2hIRP6CFGOnpdZ8",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/6750636890779695401",
+        "languageCode": "fr",
+        "storeCode": "NF033420",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 26 14 65"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20147",
+          "locality": "Serriera",
+          "addressLines": [
+            "Trajinu",
+            "Cd 81"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF033420?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 18,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 18,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 18,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 18,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 18,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 18,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 18,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.2854262,
+          "longitude": 8.6994778
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJH60jdZ6d0BIRSuTjVpHkkfU",
+          "duplicateLocation": "locations/12724231059224778731",
+          "mapsUri": "https://maps.google.com/maps?cid=17695175723794555978",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJH60jdZ6d0BIRSuTjVpHkkfU"
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/2660315177073037366",
+        "languageCode": "fr",
+        "storeCode": "NF030376",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 57 42 26"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20145",
+          "locality": "Sari-Solenzara",
+          "addressLines": [
+            "RT10",
+            "RN 198"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF030376?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.849406,
+          "longitude": 9.3997068
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJO8btc82S2RIRNAbgQcUYMF8",
+          "duplicateLocation": "locations/16789597461136168973",
+          "mapsUri": "https://maps.google.com/maps?cid=6859009467978090036",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJO8btc82S2RIRNAbgQcUYMF8"
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/8111643857016275892",
+        "languageCode": "fr",
+        "storeCode": "NF016709",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 37 00 53"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20217",
+          "locality": "Saint-Florent",
+          "addressLines": [
+            "Route de Bastia"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF016709?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.6812032,
+          "longitude": 9.3034653
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJKyt2Awkv1xIRqvJ5lF3M3Tg",
+          "mapsUri": "https://maps.google.com/maps?cid=4097655938272064170",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJKyt2Awkv1xIRqvJ5lF3M3Tg",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/9248481508288203905",
+        "languageCode": "fr",
+        "storeCode": "NF003990",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 20 63 58"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20090",
+          "locality": "Ajaccio",
+          "addressLines": [
+            "T21",
+            "Rn 196 Quartier St Joseph"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF003990?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 45
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 45
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 45
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 45
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 45
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 45
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 5,
+                "minutes": 45
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 21
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.9333769,
+          "longitude": 8.7552455
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJ7Y-cFi9q2hIRwijdL_PiNDw",
+          "mapsUri": "https://maps.google.com/maps?cid=4338341875172583618",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJ7Y-cFi9q2hIRwijdL_PiNDw",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/1519524882875384542",
+        "languageCode": "fr",
+        "storeCode": "NF088552",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 47 22 34"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20219",
+          "locality": "Vivario",
+          "addressLines": [
+            "Territoriale 20",
+            "Rn 193 Tattone"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088552?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 42.1495966,
+          "longitude": 9.1523444
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "hasGoogleUpdated": true,
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJyzUnvlMA2hIRFKlboOm17mA",
+          "mapsUri": "https://maps.google.com/maps?cid=6984720087120587028",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJyzUnvlMA2hIRFKlboOm17mA",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/15295345519187830308",
+        "languageCode": "fr",
+        "storeCode": "NF088551",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 57 86 23"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20240",
+          "locality": "Ventiseri",
+          "addressLines": [
+            "Travo"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF088551?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 6,
+                "minutes": 30
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20,
+                "minutes": 30
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.917099,
+          "longitude": 9.3894092
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJF4Me3unt2RIRPIbhlZsCejQ",
+          "mapsUri": "https://maps.google.com/maps?cid=3781337704388724284",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJF4Me3unt2RIRPIbhlZsCejQ",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  },
+  {
+    "locations": [
+      {
+        "name": "locations/13882956550840065986",
+        "languageCode": "fr",
+        "storeCode": "NF078301",
+        "title": "TotalEnergies",
+        "phoneNumbers": {
+          "primaryPhone": "04 95 70 01 01"
+        },
+        "storefrontAddress": {
+          "regionCode": "FR",
+          "languageCode": "fr",
+          "postalCode": "20137",
+          "locality": "Porto-Vecchio",
+          "addressLines": [
+            "T10",
+            "Rn 198"
+          ]
+        },
+        "websiteUri": "https://store.totalenergies.fr/fr_FR/NF078301?utm_source=google&utm_medium=organic&utm_campaign=mybusiness-website",
+        "regularHours": {
+          "periods": [
+            {
+              "openDay": "SUNDAY",
+              "openTime": {
+                "hours": 8
+              },
+              "closeDay": "SUNDAY",
+              "closeTime": {
+                "hours": 19,
+                "minutes": 30
+              }
+            },
+            {
+              "openDay": "MONDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "MONDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "TUESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "TUESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "WEDNESDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "WEDNESDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "THURSDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "THURSDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "FRIDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "FRIDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            },
+            {
+              "openDay": "SATURDAY",
+              "openTime": {
+                "hours": 7
+              },
+              "closeDay": "SATURDAY",
+              "closeTime": {
+                "hours": 20
+              }
+            }
+          ]
+        },
+        "latlng": {
+          "latitude": 41.6347158,
+          "longitude": 9.2941127
+        },
+        "openInfo": {
+          "status": "OPEN",
+          "canReopen": true,
+          "openingDate": {
+            "year": 2022,
+            "month": 1,
+            "day": 2
+          }
+        },
+        "metadata": {
+          "canDelete": true,
+          "canModifyServiceList": true,
+          "canHaveFoodMenus": true,
+          "placeId": "ChIJRZrXmBGE2RIRpKqT0I4RXds",
+          "mapsUri": "https://maps.google.com/maps?cid=15806809572222675620",
+          "newReviewUri": "https://search.google.com/local/writereview?placeid=ChIJRZrXmBGE2RIRpKqT0I4RXds",
+          "hasVoiceOfMerchant": true
+        },
+        "profile": {
+          "description": "Chaque station-service TotalEnergies concentre des services de proximité. Retrouvez toute une gamme de services à votre disposition pour entretenir votre voiture ou faciliter votre plein d'énergie."
+        }
+      }
+    ],
+    "totalSize": 1,
+    "newProperty": "Placeholder value"
+  }
+]

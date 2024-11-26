@@ -2,6 +2,8 @@ import 'dotenv/config';
 import { fetchToken } from './services/fetchToken.js';
 import { readExcelFile } from './utils/readExcelFile.js';
 import { getGMBData } from './services/getGMBData.js';
+import { writeToJsonFile } from './utils/writeToJsonFile.js';
+import { processGMBData } from './utils/processGMBData.js';
 
 // Environment Configuration Validation
 const validateEnv = () => {
@@ -12,13 +14,6 @@ const validateEnv = () => {
 };
 
 // Main Function
-const getToken = async () => {
-  validateEnv();
-  const { API_URL, PASSWORD } = process.env;
-  return await fetchToken(API_URL, PASSWORD, 'totalenergies');
-};
-
-// Execute Functions Sequentially
 const main = async () => {
   try {
     console.log("Fetching token...");
@@ -26,7 +21,15 @@ const main = async () => {
     if (token) {
       const implantCodes = readExcelFile(); // Extract Implant codes
       console.log("Fetching GMB data...");
-      await getGMBData(implantCodes, token); // Fetch and log GMB data
+      const gmbData = await getGMBData(implantCodes, token); // Fetch and log GMB data
+      
+      // Save GMB data to a JSON file
+      console.log("Saving raw GMB data to JSON...");
+      writeToJsonFile(gmbData, 'gmbData.json');
+
+      // Process GMB data
+      console.log("Processing GMB data...");
+      processGMBData();
     } else {
       console.error('Token retrieval failed. Exiting...');
     }
@@ -34,4 +37,5 @@ const main = async () => {
     console.error('Error during execution:', error.message);
   }
 };
+
 main();
