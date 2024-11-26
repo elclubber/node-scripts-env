@@ -1,6 +1,7 @@
 import 'dotenv/config';
 import { fetchToken } from './services/fetchToken.js';
 import { readExcelFile } from './utils/readExcelFile.js';
+import { getGMBData } from './services/getGMBData.js';
 
 // Environment Configuration Validation
 const validateEnv = () => {
@@ -20,10 +21,12 @@ const getToken = async () => {
 // Execute Functions Sequentially
 const main = async () => {
   try {
+    console.log("Fetching token...");
     const token = await fetchToken(process.env.API_URL, process.env.PASSWORD, 'totalenergies');
     if (token) {
       const implantCodes = readExcelFile(); // Extract Implant codes
-      await getGMBData(implantCodes); // Fetch and log GMB data
+      console.log("Fetching GMB data...");
+      await getGMBData(implantCodes, token); // Fetch and log GMB data
     } else {
       console.error('Token retrieval failed. Exiting...');
     }
@@ -31,5 +34,4 @@ const main = async () => {
     console.error('Error during execution:', error.message);
   }
 };
-
 main();

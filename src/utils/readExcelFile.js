@@ -20,7 +20,7 @@ export const readExcelFile = () => {
         .map((row) => row["Implant"]) // Extract "Implant" values
         .filter((value) => value !== undefined && !valuesToRemove.includes(value)); // Remove unwanted values
   
-      console.log('Filtered Implant Column Values:', implantValues);
+    //   console.log('Filtered Implant Column Values:', implantValues);
       return implantValues;
     } catch (error) {
       console.error('Error reading Excel file:', error.message);
