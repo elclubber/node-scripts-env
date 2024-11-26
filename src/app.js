@@ -20,9 +20,10 @@ const getToken = async () => {
 // Execute Functions Sequentially
 const main = async () => {
   try {
-    const token = await getToken(); // Fetch token
+    const token = await fetchToken(process.env.API_URL, process.env.PASSWORD, 'totalenergies');
     if (token) {
-      readExcelFile(); // Trigger Excel reading only if token exists
+      const implantCodes = readExcelFile(); // Extract Implant codes
+      await getGMBData(implantCodes); // Fetch and log GMB data
     } else {
       console.error('Token retrieval failed. Exiting...');
     }
